@@ -1,0 +1,12 @@
+Package: distanceTraveled
+Type: Package
+Title: Calculate Distance Traveled By a System
+Version: 0.1.0
+Author: Jessica L. Burnett 
+Maintainer: Jessica L. Burnett <jessicaleighburnett@gmail.com>
+Description: Calculates the 'distance traveled' by a system. 
+    See manuscript TBD for details. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
