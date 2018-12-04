@@ -5,5 +5,6 @@ Package for calculating distance traveled of a multivariable system
 Vignette coming
 Plotting arguments coming
 
-
+# Associated projects
+TBD
 
