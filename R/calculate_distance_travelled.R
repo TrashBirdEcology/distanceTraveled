@@ -1,4 +1,4 @@
-#' @title Calculate the `Distance Travelled` by the Multivariable System
+#' @title Calculate the `Distance Travelled` by a multivariable system 
 #'
 #' @param dataIn A data frame containing columns `value`, `time`, and any number of state variables (the order of all columns is irrelevant).
 #' @param group.vars Character vector of state variable(s) (e.g., species) to be used as grouping variables. Distances will be calculated indiviudally over time, according to these grouping variables. Default = 'variable'
