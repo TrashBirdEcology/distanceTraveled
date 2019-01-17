@@ -14,7 +14,7 @@
 #' plot( dist$time, dist$s) # Cumulative distance traveled
 #' plot( dist$time, dist$dsdt)  # Velocity = First derivative of s (Ds/t or dsdt or s')
 #' plot( dist$time, dist$d2sdt2)  # Acceleration = Second derivative of s (Ds/t or dsdt or s')
-distance_traveled <-
+distance_travelled <-
     function(dataIn,
              group.vars = c('variable'),
              derivs = T,
