@@ -7,5 +7,7 @@ A description of the method is forthcoming (Burnett, Price, and Tyre, *in prep*)
 
 
 # Associated projects
-See also [`package::trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures)
+See also:
+[`package::trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures)
+[`package::trashbirdecology/bbsRDM`](https://github.com/TrashBirdEcology/bbsRDM)
 
