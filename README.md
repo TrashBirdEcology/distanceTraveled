@@ -8,6 +8,6 @@ A description of the method is forthcoming.
 
 # Associated projects
 See also:
-[`package::trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures)
-[`package::trashbirdecology/bbsRDM`](https://github.com/TrashBirdEcology/bbsRDM)
+- [`package trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures) . 
+- [`package trashbirdecology/bbsRDM`](https://github.com/TrashBirdEcology/bbsRDM)
 
