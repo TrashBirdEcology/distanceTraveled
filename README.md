@@ -1,3 +1,6 @@
+# Update
+This package has been archived. Please use function `calculate_distanceTravelled`[`package trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures) 
+
 # About
 A package for calculating distance travelled of single- or multi-dimensional system. 
 
@@ -8,6 +11,6 @@ A description of the method is forthcoming.
 
 # Associated projects
 See also:
-- [`package trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures) . 
+- [`package trashbirdecology/regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimeDetectionMeasures) 
 - [`package trashbirdecology/bbsRDM`](https://github.com/TrashBirdEcology/bbsRDM)
 
